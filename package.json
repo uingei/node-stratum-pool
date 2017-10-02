@@ -28,6 +28,7 @@
         "url": "https://github.com/joshuayabut/node-stratum-pool.git"
     },
     "dependencies": {
+        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
         "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
